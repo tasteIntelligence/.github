@@ -1,1 +1,1 @@
-# .github
+https://tasteintelligence.github.io/website/
